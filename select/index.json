@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "僕たちの未来",
+  "base_artist": "家入レオ",
+  "createdAt": "2025-12-18T13:57:00.837391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕たちの未来",
+      "artist": "Leo Ieiri",
+      "has_synced": false,
+      "path": "select/01_僕たちの未来_Leo_Ieiri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕たちの未来",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/02_僕たちの未来_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕たちの未来",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/03_僕たちの未来_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕たちの未来 - Bokutachino Mirai",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/04_僕たちの未来_-_Bokutachino_Mirai_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕たちの未来 (short edit)",
+      "artist": "Type-Moon",
+      "has_synced": false,
+      "path": "select/05_僕たちの未来_(short_edit)_Type-Moon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕たちの未来 (short edit)",
+      "artist": "NUMBER 201",
+      "has_synced": false,
+      "path": "select/06_僕たちの未来_(short_edit)_NUMBER_201.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕たちの未来",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_01_僕たちの未来_家入レオ.txt"
+    }
+  ]
+}
